@@ -1,7 +1,8 @@
+@charset "utf-8";
 /* CSS Document */
 *{ margin:0px; padding:0px; color:#333; border:0px;}
 body{background-color: #eeeeee; margin:0px; padding:0px;
-font-size:13px; font-family:"microsoft yahei","Î¢ÈíÑÅºÚ","simsun","ËÎÌå"; _font-family:"simsun","ËÎÌå";line-height:22px; background-image:url(image/body_bg.jpg); background-repeat:repeat;}
+font-size:13px; font-family:"microsoft yahei","å¾®è½¯é›…é»‘","simsun","å®‹ä½“"; _font-family:"simsun","å®‹ä½“";line-height:22px; background-image:url(image/body_bg.jpg); background-repeat:repeat;}
 #body{margin:0 auto;width:1004px; min-height:840px;background-color:#FFFFFF; border-bottom:2px solid #FF9900;}
 #top{ margin:0 auto;width:980px; height:75px; background-image:url(image/top.jpg); background-repeat:no-repeat;
 background-position:right;}
